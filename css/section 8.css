@@ -1,0 +1,65 @@
+body{
+    height: 900px   ;
+}
+.define{
+width: 100vw;
+height: 400px;
+position: relative;
+background-attachment: fixed;
+background-repeat: none;
+background-size: cover;
+background-image: url(../Images/pexels-pixabay-36717\ \(1\).jpg);
+overflow: auto;
+margin-top: 600px;
+}
+.define-developer1{
+    
+
+    float: left;
+    margin-left: 400px;
+}
+.define-developer2{
+
+    float: left;
+    margin-left: 600px;
+}
+.define-developer1,.define-developer2{
+    font-family: 'varela round' , sans-serif;
+   
+    margin-top:100px;
+    margin: 100px 19%;
+}
+.image-define
+{position: absolute;
+  float: left;
+}
+.latter-define{
+position: absolute;
+    float: left;
+    margin-left: 100px;
+}
+  .p1-out{
+
+    display: block;
+    position: absolute;
+    margin-top: 150px;
+    line-height: 1.3;
+    color: rgb(255, 253, 253);
+ }
+ .img1
+ {
+    border-radius: 50%;
+ }
+ .sp1{
+     margin-top:5px ;
+     color: #6195ff;
+ }
+ .p1{
+     color: white;
+     font-weight: bolder;
+     font-size: larger;margin-top: 25px;
+ }
+ .sp1,.p1{
+    
+     line-height: .5;
+ }

@@ -1,0 +1,52 @@
+.client{
+background-attachment: fixed;
+background-image: url(../Images/601441dd6dfbe10018e00c25.webp);
+width: 100vw;
+height: 400px;
+position: relative;
+background-repeat: no-repeat;
+background-size: cover;
+line-height: 1.5;
+margin-top: 500px;
+text-align: center;
+}body{
+
+    height: 1000px;
+}
+.sp-k{
+display: block;
+font-size: 30px;
+font-weight: bolder;
+font-family: 'varela round' , sans-serif;
+
+       
+
+}
+.word{
+    font-size: 16px;
+    font-family: 'varela round' , sans-serif;
+
+}
+.client-d{
+    float: left;
+    margin-top: 120px;
+    margin-left: 200px;
+    margin-right: 1%;
+    color: white;
+}
+.client-d i{
+    color: rgb(71, 71, 255);
+    font-size: 40px;
+    margin-left: 5px;
+    line-height: 1.5;
+    
+    
+}
+.client-overlay{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.755);
+    position: absolute;
+}
